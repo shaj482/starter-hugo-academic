@@ -42,7 +42,7 @@ experience:
     location: Aberystwyth, Wales
     date_start: '2019-02-01'
     date_end: '2019-05-31'
-    description: Convened Keys to International Politics, a module for prospective international students seeking entry into undergraduate degree programs.
+    description: |2- Convened Keys to International Politics, a module for prospective international students seeking entry into undergraduate degree programs.
     
     - title: Part Time Teaching Staff
     company: Department of International Politics, Aberystwyth University
@@ -50,7 +50,7 @@ experience:
     location: Aberystwyth, Wales
     date_start: '2013-09-01'
     date_end: '2019-01-28'
-    description: Taught on a range of undergraduate modules in the areas of security and intelligence, 20th century history, current events, and propoganda studies.
+    description: |2- Taught on a range of undergraduate modules in the areas of security and intelligence, 20th century history, current events, and propoganda studies.
 
 
 design:
