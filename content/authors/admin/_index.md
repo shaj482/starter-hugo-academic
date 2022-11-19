@@ -1,42 +1,42 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Jess Shahan
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Jess
+last_name: Shahan
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Teaching Fellow in International Relations
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Leicester
+    url: http://le.ac.uk
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include intelligence and security studies, women's and gender history, employment and organisational studies.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Intelligence and Security Studies
+  - Gender History
+  - Work and Employment
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in International Politics
+      institution: Aberystwyth University
+      year: 2019
+    - course: MA in Women's and Gender History
+      institution: University of Nottingham, Central European University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: BA in History, minor in Gender Studies
+      institution: University of North Florida
       year: 2008
 
 # Social/Academic Networking
