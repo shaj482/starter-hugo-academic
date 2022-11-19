@@ -74,6 +74,7 @@ email: ''
 highlight_name: true
 ---
 
-Jess Shahan is currently a teaching fellow in international relations at the University of Leicester. Their research interests include intelligence and security studies, women's and gender history, experiences of employment in the intelligence sector, and organisational cultures.
+Jess Shahan is currently a teaching fellow in international relations at the University of Leicester. Their research interests include intelligence and security studies, women's and gender history, experiences of employment in the intelligence sector, and organisational cultures. Current teaching responsibilites include: US foreign policy, international relations after the Cold War, the Cuban Missile Crisis, the politics of nuclear weapons, political research approaches and methods.
 
-Their teaching includes US foreign policy, international relations after the Cold War, the politics of nuclear weapons, gender, research approaches and methods.
+Welcome to my new website! This site is currently a work-in-progress. To see my current publications, please use the google scholar link.
+
