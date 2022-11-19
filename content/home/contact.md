@@ -22,10 +22,10 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: shaj00142@gmail.com
   appointment_url: 'http://jrs47.youcanbook.me'
   contact_links:
     - icon: twitter
