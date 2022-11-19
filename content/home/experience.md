@@ -1,5 +1,4 @@
 ---
-active= false
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
@@ -43,8 +42,7 @@ experience:
     location: Aberystwyth, Wales
     date_start: '2013-09-01'
     date_end: '2019-05-28'
-    description: |2- Taught on a range of undergraduate modules in the areas of security and intelligence, 20th century history, current events, and propoganda studies.
-
+    description: Taught on a range of undergraduate modules in International Politics.
 
 design:
   columns: '2'
