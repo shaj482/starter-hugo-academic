@@ -22,28 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Teaching Fellow in International Relations
+    company: University of Leicester
+    company_url: 'http://le.ac.uk'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Leicester, England
+    date_start: '2019-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Undergraduate and Postgraduate teaching in politics and IR
+        * Supervision of dissertations (UG and PG)
+        * Module redesign, updating, and development
+        * Ethics Lead for the School of History, Politics and International Relations; previous service roles include: Admissions Tutor, Joint Degree Coordinator
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Academic Subject Tutor in International Relations
+    company: Aberystwyth University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Aberystwyth, Wales
+    date_start: '2019-01-28'
+    date_end: '2019-05-31'
+    description: Convened Keys to International Politics, a module for prospective international students seeking entry into undergraduate degree programs.
 
 design:
   columns: '2'
