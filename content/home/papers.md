@@ -9,7 +9,7 @@ weight: 50  # section position on page
 
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: '2'
 ---
 
 ‘Can the spy novel be rescued from the men?: Women’s authorship in insider spy fiction’, presented at the International Studies Association (ISA) Annual Convention (virtual panel) 29 March 2022.
