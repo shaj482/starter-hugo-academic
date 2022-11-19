@@ -44,13 +44,6 @@ experience:
     date_end: '2019-05-31'
     description: Convened Keys to International Politics, a module for prospective international students seeking entry into undergraduate degree programs.
     
-    - title: Part Time Teaching Staff
-    company: Department of International Politics, Aberystwyth University
-    company_url: 'http://aber.ac.uk'
-    location: Aberystwyth, Wales
-    date_start: '2013-09-28'
-    date_end: '2019-05-31'
-    description: Taught on a range of undergraduate modules in the areas of security and intelligence, 20th century history, current events, and propoganda studies.
 
 design:
   columns: '2'
