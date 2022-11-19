@@ -30,8 +30,13 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
+      name: DM me on Twitter
       link: 'https://twitter.com/jess_shahan'
+    - icon: linkedin
+      icon_pack: fab
+      name: Connect with me on LinkedIn
+      link: https://www.linkedin.com/in/jess-shahan-ab6120200/
+
 
 design:
   columns: '2'
