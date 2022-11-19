@@ -7,11 +7,11 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Conference Papers and Talks
-    url: '#talks'
-    weight: 20
   - name: Publications
     url: '#publications'
+    weight: 20
+  - name: Conference Papers and Talks
+    url: '#papers'
     weight: 30
   - name: Contact
     url: '#contact'
