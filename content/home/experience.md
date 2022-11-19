@@ -42,7 +42,11 @@ experience:
     location: Aberystwyth, Wales
     date_start: '2013-09-01'
     date_end: '2019-05-28'
-    description: Taught on a range of undergraduate modules in International Politics.
+    description: |2-
+        Responsibilities include:
+        
+        * Teaching and assesment for undergraduate modules in International Politics
+        * Core modules: War, Strategy and Intelligence; Politics in the Age of Two World Wars, Behind the Headlines
 
 design:
   columns: '2'
