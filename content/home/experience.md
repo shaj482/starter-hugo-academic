@@ -25,7 +25,6 @@ experience:
   - title: Teaching Fellow in International Relations
     company: University of Leicester
     company_url: 'http://le.ac.uk'
-    company_logo: org-x
     location: Leicester, England
     date_start: '2019-09-01'
     date_end: ''
@@ -39,7 +38,7 @@ experience:
 
   - title: Academic Subject Tutor in International Relations
     company: Aberystwyth University
-    company_url: ''
+    company_url: 'http://aber.ac.uk'
     company_logo: org-x
     location: Aberystwyth, Wales
     date_start: '2019-01-28'
