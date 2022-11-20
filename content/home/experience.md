@@ -48,13 +48,13 @@ experience:
         * Teaching and assesment for undergraduate modules in International Politics
         * Core modules: War, Strategy and Intelligence; Politics in the Age of Two World Wars, Behind the Headlines
 
-  - title: Test
-    company: University Test
+  - title: Academic Subject Tutor
+    company: International English Centre, Aberystwyth University
     company_url: ''
-    location: Leicester, England
+    location: Aberystwyth, Wales
     date_start: '2011-09-01'
     date_end: '2012-10-10'
-    description: Test
+    description: Convened course for international students seeking entry into International Politics degrees.
 
 design:
   columns: '2'
