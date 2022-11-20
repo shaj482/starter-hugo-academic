@@ -2,6 +2,7 @@
 title: "“Don’t keep mum”: Critical approaches to the narratives of women
   intelligence professionals"
 publication_types:
+  - "0"
   - "2"
 authors:
   - admin
@@ -23,6 +24,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-01-29
+date: 2021-03-01
 ---
 O﻿pen Access: [](https://doi.org/10.1080/02684527.2021.1893077)<https://doi.org/10.1080/02684527.2021.1893077>
