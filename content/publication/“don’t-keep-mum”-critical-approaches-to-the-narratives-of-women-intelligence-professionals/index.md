@@ -1,9 +1,10 @@
 ---
-title: "“Don’t keep mum”: critical approaches to the narratives of women
+title: "“Don’t keep mum”: Critical approaches to the narratives of women
   intelligence professionals"
 publication_types:
   - "2"
-authors: []
+authors:
+  - admin
 doi: 10.1080/02684527.2021.1893077
 publication: Intelligence and National Security
 abstract: Drawing upon a rise of women’s publicly shared narratives in the UK
@@ -22,6 +23,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-11-20T13:59:13.379Z
+date: 2022-11-20T14:11:20.424Z
 ---
 O﻿pen Access: [](https://doi.org/10.1080/02684527.2021.1893077)<https://doi.org/10.1080/02684527.2021.1893077>
