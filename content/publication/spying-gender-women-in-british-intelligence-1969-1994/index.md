@@ -28,6 +28,6 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
-date: 2022-11-20T14:12:30.506Z
+date: 2019-01-29
 ---
 [L﻿ink to full thesis](https://pure.aber.ac.uk/portal/en/theses/spying-gender(8124a3cd-4f7c-42f7-91d0-fe222500f55e).html)
