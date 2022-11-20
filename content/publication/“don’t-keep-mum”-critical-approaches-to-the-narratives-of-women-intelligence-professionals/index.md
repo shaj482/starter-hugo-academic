@@ -19,7 +19,23 @@ abstract: Drawing upon a rise of women’s publicly shared narratives in the UK
   intelligence history to reveal a more nuanced understanding of intelligence
   work.
 draft: false
+tags:
+- Intelligence
+- Memoirs
+- Critical Intelligence Studies
+- Women in Intelligence
 featured: true
+links:
+- name: Link
+  url: https://doi.org/10.1080/02684527.2021.1893077
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: ""
   focal_point: Smart
