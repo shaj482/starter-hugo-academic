@@ -23,7 +23,18 @@ abstract: >-
 
   This thesis argues that women’s narratives exist at a nexus of macro, meso and micro level forces and that these experiences are uniquely positioned to highlight how contemporary intelligence organisations have been shaped by women employees. In an ongoing fight for equality of opportunity, women have challenged and changed policies and practices which hindered their progression, including the gender coding of certain job roles. Foregrounding women’s experiences in intelligence work allows us to discern these changes in ways that are not as visible if we only consider the experiences of men.
 draft: false
-featured: false
+featured: true
+links:
+- name: Link
+  url: https://pure.aber.ac.uk/portal/en/theses/spying-gender(8124a3cd-4f7c-42f7-91d0-fe222500f55e).html
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 image:
   filename: ""
   focal_point: Smart
