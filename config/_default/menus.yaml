@@ -13,7 +13,7 @@ main:
   - name: Publications
     url: '#publications'
     weight: 30
-  - name: Conference Papers and Talks
+  - name: Conference Papers
     url: '#papers'
     weight: 40
   - name: Contact
