@@ -48,6 +48,15 @@ experience:
         * Teaching and assesment for undergraduate modules in International Politics
         * Core modules: War, Strategy and Intelligence; Politics in the Age of Two World Wars, Behind the Headlines
 
+experience:
+  - title: Test
+    company: University Test
+    company_url: ''
+    location: Leicester, England
+    date_start: '2011-09-01'
+    date_end: '2012-10-10'
+    description: Test
+
 design:
-  columns: '1'
+  columns: '2'
 ---
