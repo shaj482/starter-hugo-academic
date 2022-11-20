@@ -14,6 +14,9 @@ subtitle:
 
 design:
   columns: '4'
+   background:
+    color: 'navy'
+    text_color_light: true
 ---
 
 {{< gallery album="photos" >}}
