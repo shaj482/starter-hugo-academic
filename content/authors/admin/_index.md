@@ -24,6 +24,7 @@ bio: My research interests include intelligence and security studies, women's an
 interests:
   - Intelligence and Security Studies
   - Gender History
+  - Memoirs, Autobiographies, Personal Narratives
   - Work and Employment
 
 # Education to show in About widget
