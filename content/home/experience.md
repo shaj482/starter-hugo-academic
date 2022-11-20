@@ -48,7 +48,6 @@ experience:
         * Teaching and assesment for undergraduate modules in International Politics
         * Core modules: War, Strategy and Intelligence; Politics in the Age of Two World Wars, Behind the Headlines
 
-experience:
   - title: Test
     company: University Test
     company_url: ''
