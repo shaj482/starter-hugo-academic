@@ -36,9 +36,17 @@ experience:
         * Module redesign, updating, and development
         * Ethics Lead for the School of History, Politics and International Relations; previous service roles include: Admissions Tutor, Joint Degree Coordinator
 
+  - title: Academic Subject Tutor
+    company: International English Centre, Aberystwyth University
+    company_url: 'https://www.aber.ac.uk/en/international-english/'
+    location: Aberystwyth, Wales
+    date_start: '2019-02-01'
+    date_end: '2019-05-28'
+    description: Convened Keys to International Politics, a course for international students seeking entry into International Politics degrees.
+
   - title: Part Time Teaching Staff
     company: Department of International Politics, Aberystwyth University
-    company_url: 'http://aber.ac.uk'
+    company_url: 'http://aber.ac.uk/en/interpol'
     location: Aberystwyth, Wales
     date_start: '2013-09-01'
     date_end: '2019-05-28'
@@ -47,14 +55,6 @@ experience:
         
         * Teaching and assesment for undergraduate modules in International Politics
         * Core modules: War, Strategy and Intelligence; Politics in the Age of Two World Wars, Behind the Headlines
-
-  - title: Academic Subject Tutor
-    company: International English Centre, Aberystwyth University
-    company_url: ''
-    location: Aberystwyth, Wales
-    date_start: '2019-02-01'
-    date_end: '2019-05-28'
-    description: Convened course for international students seeking entry into International Politics degrees.
 
 design:
   columns: '2'
