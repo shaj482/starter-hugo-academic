@@ -13,9 +13,7 @@ title: Gallery
 subtitle:
 
 design:
-  columns: '4'
-   background:
-    color: '#333333'
+  columns: '2'
 ---
 
 {{< gallery album="photos" >}}
