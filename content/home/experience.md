@@ -52,8 +52,8 @@ experience:
     company: International English Centre, Aberystwyth University
     company_url: ''
     location: Aberystwyth, Wales
-    date_start: '2011-09-01'
-    date_end: '2012-10-10'
+    date_start: '2019-02-01'
+    date_end: '2019-05-28'
     description: Convened course for international students seeking entry into International Politics degrees.
 
 design:
