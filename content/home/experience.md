@@ -49,13 +49,13 @@ experience:
         * Core modules: War, Strategy and Intelligence; Politics in the Age of Two World Wars, Behind the Headlines
 
  - title: Test
-    company: Department of International Politics, Aberystwyth University
-    company_url: 'http://aber.ac.uk'
-    location: Aberystwyth, Wales
+    company: Test
+    company_url: 'http://www.google.com'
+    location: Wales
     date_start: '2011-09-01'
     date_end: '2012-05-28'
     description: Test
 
 design:
-  columns: '2'
+  columns: '1'
 ---
