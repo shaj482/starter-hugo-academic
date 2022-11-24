@@ -19,6 +19,9 @@ main:
   - name: Gallery
     url: 'https://j-shahan.netlify.app/photos/'
     weight: 50
+  - name: Photos
+    url: 'gallery/'
+    weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
