@@ -16,9 +16,6 @@ main:
   - name: Conference Papers
     url: '#papers'
     weight: 40
-  - name: Gallery
-    url: 'https://j-shahan.netlify.app/photos/'
-    weight: 50
   - name: Photos
     url: 'gallery/'
     weight: 60
